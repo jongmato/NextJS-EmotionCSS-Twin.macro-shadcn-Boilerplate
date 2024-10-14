@@ -30,7 +30,7 @@
     "README.md",
     "tsconfig.json",
     "withTwin.mjs",
-    "next.config.js"
+    "next.config.mjs"
   ],
   "rules": {
     "react/react-in-jsx-scope": "off",
