@@ -14,5 +14,4 @@
     "importOrderSortSpecifiers": true,
     "bracketSameLine": false,
     "plugins": ["prettier-plugin-tailwindcss"]
-  }
-  
+}
